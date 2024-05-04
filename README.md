@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthwikreddy7&label=Profile%20views&color=0e75b6&style=flat" alt="ruthwikreddy7" /> </p>
 
-- 💬 Ask me about **Competitive programming...**
+- 💬 Ask me about **Anything that i can help...**
 
 - 📫 How to reach me **lakkireddyruthwikreddy@gmail.com**
 
