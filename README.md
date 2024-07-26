@@ -1,5 +1,5 @@
 ![logo](https://github.com/ruthwikreddy7/ruthwikreddy7/blob/main/github%20banner.png)
-<h1 align="center">Hi 👋, I'm Ruthwik reddy</h1>
+<h1 align="center">Hi 👋, I'm Ruthwik Reddy</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif">
 
